@@ -1,0 +1,8 @@
+{
+  "name": "cleanup-script",
+  "version": "1.0.0",
+  "main": "cleanupOrphanedFiles.js",
+  "scripts": {
+    "start": "node cleanupOrphanedFiles.js"
+  }
+}
