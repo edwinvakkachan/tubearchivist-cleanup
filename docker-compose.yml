@@ -3,7 +3,7 @@ version: '3.9'
 services:
   cleanup:
     build: ./cleanup
-    container_name: orphan-cleanup
+    container_name: tubeMetadataCleaner
     volumes:
       - /srv/dev-disk-by-uuid-71f50e81-4a2b-4a69-a58f-76d579bd27f6/1tb/App/tubearchivist/media:/app/media
     restart: "no"
