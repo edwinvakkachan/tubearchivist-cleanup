@@ -1,0 +1,3 @@
+Hello, GitHub! 
+This is a sample file for practicing pull requests.
+- Created by [Your Name]
